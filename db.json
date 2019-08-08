@@ -1,0 +1,99 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Sascha Knobloch",
+      "picture_url": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "name",
+          "type": "workout",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "name",
+          "type": "plank",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rudi Seelig",
+      "picture_url": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "name",
+          "type": "workout",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "name",
+          "type": "plank",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vivek Grimm",
+      "picture_url": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "name",
+          "type": "workout",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "name": "name",
+          "type": "plank",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ayman Karram",
+      "picture_url": "https://homepages.cae.wisc.edu/~ece533/images/barbara.png",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "name",
+          "type": "workout",
+          "completed": false
+        },
+        {
+          "id": 2,
+          "name": "name",
+          "type": "plank",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Duc Do",
+      "picture_url": "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+      "exercises": [
+        {
+          "id": 1,
+          "name": "name",
+          "type": "workout",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "name": "name",
+          "type": "plank",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
